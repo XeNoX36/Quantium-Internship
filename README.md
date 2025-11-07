@@ -1,5 +1,11 @@
 # Quantium-Internship  
-![]()
+
+**Visualization**
+![](https://github.com/XeNoX36/Quantium-Internship/blob/main/chips%201.png) 
+![](https://github.com/XeNoX36/Quantium-Internship/blob/main/chips%202.png) 
+![](https://github.com/XeNoX36/Quantium-Internship/blob/main/chips%203.png) 
+![](https://github.com/XeNoX36/Quantium-Internship/blob/main/chips%204.png) 
+![](https://github.com/XeNoX36/Quantium-Internship/blob/main/chips%205.png)
 
 **Data Analysis and Insights:**  
 1. There was increase in sales in the lead-up to Christmas and there were zero sales on Christmas day itself. This is due to shops being closed on Christmas day.  
